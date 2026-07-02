@@ -7,25 +7,25 @@
 ## Pages
 
 ### Início
-https://zaply-c8e7c989.zappy5.app
+https://example.com
 Automatize, agende e dispare mensagens no WhatsApp em massa via API. Zaply é a ferramenta open source perfeita para devs e empresas que buscam eficiência em comunicação programática. Comece agora no GitHub.
 
 ### Obrigado pelo Contato - Zaply
-https://zaply-c8e7c989.zappy5.app/thank-you
+https://example.com/thank-you
 Obrigado por entrar em contato com a Zaply. Recebemos sua mensagem sobre nosso serviço de envio de mensagens em massa e retornaremos em breve.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://zaply-c8e7c989.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://zaply-c8e7c989.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://zaply-c8e7c989.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://zaply-c8e7c989.zappy5.app
-- Endpoint: https://zaply-c8e7c989.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -65,6 +65,6 @@ SaaS / Messaging Automation
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://zaply-c8e7c989.zappy5.app/sitemap.xml
-- Robots: https://zaply-c8e7c989.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://zaply-c8e7c989.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
