@@ -1,0 +1,70 @@
+# Zaply — Generative Engine Optimization Map
+
+> Zaply is a WhatsApp automation tool built for developers and businesses, hosted on GitHub. It enables users to automate, schedule, and send WhatsApp messages programmatically. The project has a technical, developer-friendly identity with a focus on productivity and communication efficiency through API-driven automation.
+
+---
+
+## Pages
+
+### Início
+https://zaply-c8e7c989.zappy5.app
+Automatize, agende e dispare mensagens no WhatsApp em massa via API. Zaply é a ferramenta open source perfeita para devs e empresas que buscam eficiência em comunicação programática. Comece agora no GitHub.
+
+### Obrigado pelo Contato - Zaply
+https://zaply-c8e7c989.zappy5.app/thank-you
+Obrigado por entrar em contato com a Zaply. Recebemos sua mensagem sobre nosso serviço de envio de mensagens em massa e retornaremos em breve.
+
+## Legal & Policy
+
+### Privacy Policy
+https://zaply-c8e7c989.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zaply-c8e7c989.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zaply-c8e7c989.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://zaply-c8e7c989.zappy5.app
+- Endpoint: https://zaply-c8e7c989.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Zaply
+Zaply is a WhatsApp automation tool built for developers and businesses, hosted on GitHub. It enables users to automate, schedule, and send WhatsApp messages programmatically. The project has a technical, developer-friendly identity with a focus on productivity and communication efficiency through API-driven automation.
+
+## Target Audience
+- Small Business Owners
+- E-commerce Sellers
+- Freelancers & Consultants
+
+## Industry
+SaaS / Messaging Automation
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://zaply-c8e7c989.zappy5.app/sitemap.xml
+- Robots: https://zaply-c8e7c989.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://zaply-c8e7c989.zappy5.app/llms-full.txt

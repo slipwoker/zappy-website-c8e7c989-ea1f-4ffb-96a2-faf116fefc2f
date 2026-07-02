@@ -1,0 +1,1660 @@
+# Zaply
+
+Zaply is a WhatsApp automation tool built for developers and businesses, hosted on GitHub. It enables users to automate, schedule, and send WhatsApp messages programmatically. The project has a technical, developer-friendly identity with a focus on productivity and communication efficiency through API-driven automation.
+
+Source: https://zaply-c8e7c989.zappy5.app
+
+---
+
+## Automação de Mensagens em Massa com API Poderosa — Zaply
+
+URL: https://zaply-c8e7c989.zappy5.app
+Description: Automatize, agende e dispare mensagens no WhatsApp em massa via API. Zaply é a ferramenta open source perfeita para devs e empresas que buscam eficiência em comunicação programática. Comece agora no GitHub.
+
+Automação de Mensagens em Massa com API Poderosa — Zaply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Funcionalidades
+- Sobre
+- Estatísticas
+- Como Funciona
+- Depoimentos
+- FAQ
+- Contato
+
+
+
+Contato
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Automatize seu WhatsApp com a API do Zaply
+
+
+### Agende, envie e gerencie mensagens em escala com uma ferramenta open-source feita para desenvolvedores e negócios.
+
+
+
+Comece Grátis
+
+
+
+Ver Documentação
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Automação Inteligente para WhatsApp
+
+
+Ferramentas poderosas para desenvolvedores que precisam de comunicação eficiente e escalável via API. Tudo open source, direto do GitHub.
+
+
+
+
+
+
+
+
+
+
+### Envio de Mensagens via API
+
+
+Dispare mensagens no WhatsApp programaticamente a partir de qualquer aplicação, com total controle e integração simplificada.
+
+
+
+
+
+
+
+
+
+### Agendamento de Campanhas
+
+
+Defina horários precisos para envio de mensagens em massa ou individuais, otimizando o alcance da sua comunicação.
+
+
+
+
+
+
+
+
+
+### SDK Focado no Desenvolvedor
+
+
+API REST limpa e documentação completa disponível no GitHub, permitindo uma integração rápida e sem atritos.
+
+
+
+
+
+
+
+
+
+### Suporte Multi-Dispositivo
+
+
+Conecte e gerencie múltiplas contas de WhatsApp simultaneamente, centralizando suas operações em um único painel.
+
+
+
+
+
+
+
+
+
+### Webhooks e Callbacks
+
+
+Receba confirmações de entrega e leitura em tempo real, mantendo seu sistema sempre atualizado com o status das mensagens.
+
+
+
+
+
+
+
+
+
+### Open Source e Gratuito
+
+
+Hospedado no GitHub e mantido pela comunidade, o Zaply é totalmente gratuito e aberto para contribuições e auditorias.
+
+
+
+
+
+
+
+
+
+
+
+Código Aberto
+
+## Automação WhatsApp para Desenvolvedores
+
+
+O Zaply é uma ferramenta open-source hospedada no GitHub, projetada para integrar o WhatsApp diretamente nos seus fluxos de trabalho. Com uma API simples e poderosa, você pode automatizar, agendar e enviar mensagens em massa com poucas linhas de código, eliminando tarefas manuais e acelerando a comunicação com seus clientes.
+
+
+Ideal para equipes de desenvolvimento que buscam eficiência e controle total sobre as notificações transacionais, lembretes e campanhas de marketing. Clone o repositório, configure suas credenciais e comece a disparar mensagens em minutos.
+
+
+
+Star no GitHub
+
+
+
+
+
+
+
+
+
+
+terminal — zaply send
+
+
+
+
+
+
+
+
+
+
+
+
+
+12.4k
+Estrelas no GitHub
+
+
+2.8M+
+Mensagens Enviadas
+
+
+450+
+Integrações Ativas
+
+
+98
+Contribuidores
+
+
+
+
+
+
+
+
+
+## Automatize em Três Passos Simples
+
+
+Comece a enviar mensagens em massa e agendar campanhas com a API do Zaply. Configure em minutos e escale sua comunicação via WhatsApp.
+
+
+
+
+
+
+
+
+1
+
+
+
+### Instale & Conecte
+
+
+Clone o repositório do Zaply no GitHub e vincule sua conta do WhatsApp em segundos. Nossa CLI guia você na configuração inicial sem complicações.
+
+
+
+
+
+
+2
+
+
+
+### Configure sua API
+
+
+Defina suas credenciais e endpoints de webhook. O Zaply oferece integração nativa com seu planejador de reuniões e sincronização com o Outlook Schedule Email.
+
+
+
+
+
+
+3
+
+
+
+### Envie & Automatize
+
+
+Dispare mensagens via REST API ou agende campanhas em massa. Ideal para serviços de envio de mensagens em lote e planejamento de cursos.
+
+
+
+
+
+
+
+
+## O Que Nossos Clientes Dizem
+
+Empresas, lojistas e profissionais autônomos que transformaram sua comunicação com a automação inteligente do Zaply.
+
+"O Zaply revolucionou nosso atendimento. Automatizamos confirmações de pedidos e o follow-up pós-venda via WhatsApp, reduzindo o tempo de resposta em 80%. Nossos clientes adoram a agilidade."
+Mariana Costa  Fundadora, Loja Bella Online
+"Como desenvolvedor, a API do Zaply é um sonho. Integrei lembretes de consultas e confirmações de agendamento no meu sistema em menos de uma hora. A documentação no GitHub é impecável."
+Rafael Almeida  Desenvolvedor Fullstack, Freelancer
+"Uso o Zaply para enviar lembretes automáticos de agendamento para meus clientes. A taxa de comparecimento aumentou 40% e eu economizo horas toda semana que antes gastava mandando mensagens manualmente."
+Camila Nogueira  Consultora de Carreira, Autônoma
+
+
+
+
+
+## Perguntas Frequentes
+
+
+Tudo o que você precisa saber sobre o Zaply para começar a automatizar suas mensagens.
+
+
+
+
+
+
+**Q: O Zaply é gratuito?**
+
+
+
+Sim! O Zaply é um projeto open-source hospedado no GitHub sob a licença MIT. Você pode clonar o repositório, modificar o código e usá-lo gratuitamente em seus próprios servidores. Não há custos de licenciamento — apenas os custos operacionais da sua infraestrutura e da API do WhatsApp Business, caso utilize.
+
+
+
+
+
+
+
+**Q: Preciso de uma conta WhatsApp Business API?**
+
+
+
+Sim, para enviar mensagens programáticas em produção é necessário ter acesso à WhatsApp Business API. O Zaply atua como uma camada de automação que se conecta a essa API. Você pode utilizar provedores oficiais como a Meta ou soluções de terceiros compatíveis com a API. Para testes locais, é possível simular o comportamento com mocks.
+
+
+
+
+
+
+
+**Q: Consigo enviar mensagens em massa?**
+
+
+
+Com certeza. O Zaply foi projetado justamente para facilitar o envio de mensagens em massa de forma programática. Através de sua API interna, você pode disparar campanhas para listas de contatos com agendamento, personalização de conteúdo e controle de intervalos entre envios, respeitando os limites da plataforma para evitar bloqueios.
+
+
+
+
+
+
+
+**Q: Existe limite de taxa de envio?**
+
+
+
+O Zaply em si não impõe um rate limit artificial, mas a entrega está sujeita às políticas de uso da WhatsApp Business API. Dependendo do seu plano e provedor, há limites de mensagens por segundo e por dia. O Zaply inclui mecanismos de fila e retry com backoff exponencial para lidar com essas restrições de forma inteligente, garantindo a máxima entregabilidade.
+
+
+
+
+
+
+
+**Q: Como faço o deploy do Zaply no meu servidor?**
+
+
+
+O deploy é simples e direto, feito sob medida para desenvolvedores. Basta clonar o repositório do GitHub, configurar as variáveis de ambiente com suas credenciais de API e executar via Docker Compose ou diretamente com Node.js. O README do projeto contém um guia passo a passo, incluindo exemplos para deploy em VPS, AWS, Railway ou qualquer plataforma que suporte containers.
+
+
+
+
+
+
+
+**Q: Existe suporte oficial?**
+
+
+
+Por ser um projeto open-source, o suporte principal é conduzido pela comunidade através das Issues e Discussions no GitHub. No entanto, mantenedores e colaboradores frequentes respondem ativamente a dúvidas e revisam pull requests. Para empresas que necessitam de suporte prioritário, SLA garantido ou implementações personalizadas, oferecemos planos de consultoria — entre em contato conosco para saber mais.
+
+
+
+
+
+
+
+
+
+
+
+## Comece a Automatizar o WhatsApp Hoje
+
+
+O Zaply é uma ferramenta open-source de automação de mensagens via WhatsApp, construída para desenvolvedores e empresas que buscam produtividade e comunicação eficiente através de APIs. Envie, agende e automatize suas mensagens de forma programática.
+
+
+
+
+Ver no GitHub
+
+
+Enviar Mensagem
+
+
+
+
+
+
+### Fale Conosco
+
+
+
+Nome
+
+
+
+E-mail
+
+
+
+Telefone
+
+
+
+Mensagem
+
+
+
+
+
+Li e concordo com os  Termos & Condições  e a  Política de Privacidade
+
+
+Enviar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automação inteligente de mensagens para escalar seu negócio com velocidade e precisão.
+
+
+
+
+
+
+#### Links Rápidos
+
+
+- Features
+
+- About
+
+- Stats
+
+- How It Works
+
+- Testimonials
+
+- FAQ
+
+
+
+
+
+
+
+#### Contato
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Horário de Funcionamento
+
+
+- Seg–Sex 09:00–18:00
+
+- Sáb 09:00–13:00
+
+- Dom Fechado
+
+
+
+
+
+
+
+#### Siga-nos
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 Zaply. Todos os direitos reservados.
+
+
+
+
+Política de Privacidade
+|
+Termos e Condições
+|
+Acessibilidade
+
+Generated by Zappy
+
+---
+
+## Privacy Policy
+
+URL: https://zaply-c8e7c989.zappy5.app/privacy
+Description: Our privacy policy - how we collect, use, and protect your information
+
+Privacy Policy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Funcionalidades
+- Sobre
+- Estatísticas
+- Como Funciona
+- Depoimentos
+- FAQ
+- Contato
+
+
+
+Contato
+
+
+
+
+
+
+
+
+# מדיניות פרטיות
+
+
+
+עדכון אחרון:  2.7.2026
+
+
+
+Zaply ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיותכם. מדיניות פרטיות זו מסבירה כיצד אנו אוספים, משתמשים ומגינים על המידע שלכם בעת השימוש באתר [business_website] ("השירות").
+
+
+## 1. איסוף מידע
+
+
+אנו עשויים לאסוף את סוגי המידע הבאים:
+
+
+- מידע אישי: שם, כתובת אימייל, מספר טלפון וכתובת
+
+- מידע טכני: כתובת IP, סוג דפדפן, מערכת הפעלה ונתוני שימוש באתר
+
+- עוגיות: מידע הנשמר במחשבכם לשיפור חוויית השימוש
+
+
+
+
+## 2. שימוש במידע
+
+
+אנו משתמשים במידע שנאסף למטרות הבאות:
+
+
+- מתן השירותים המבוקשים
+
+- שיפור השירות וחוויית המשתמש
+
+- יצירת קשר עמכם בנוגע לשירותינו
+
+- עמידה בדרישות חוקיות
+
+
+
+
+## 3. שיתוף מידע
+
+
+אנו לא נמכור, נחכיר או נשתף את המידע האישי שלכם עם צדדים שלישיים, למעט במקרים הבאים:
+
+
+- בהסכמתכם המפורשת
+
+- כאשר נדרש על פי חוק
+
+- להגנה על זכויותינו או בטחון משתמשינו
+
+- עם ספקי שירות המסייעים בהפעלת השירות (תחת הסכמי סודיות)
+
+
+
+
+## 4. זכויות המשתמש
+
+
+בהתאם לחוק הגנת הפרטיות התשמ"א-1981, יש לכם הזכויות הבאות:
+
+
+- זכות עיון במידע האישי השמור עליכם
+
+- זכות לתיקון מידע שגוי או לא מדויק
+
+- זכות למחיקת מידע אישי בנסיבות מסוימות
+
+- זכות להתנגד לעיבוד מידע למטרות שיווק
+
+- זכות להגשת תלונה לרשם מאגרי המידע
+
+
+
+
+## 5. עוגיות (Cookies)
+
+
+אתרנו משתמש בעוגיות לשיפור חוויית השימוש. ניתן לנהל את העוגיות דרך הגדרות הדפדפן שלכם. השבתת עוגיות עלולה להשפיע על פונקציונליות האתר.
+
+
+## 6. אבטחת מידע
+
+
+אנו נוקטים באמצעי אבטחה סבירים להגנה על המידע שלכם, כולל הצפנה, חומות אש ובקרת גישה מוגבלת. עם זאת, אף שיטת העברה או אחסון אינה בטוחה ב-100%.
+
+
+## 7. שינויים במדיניות
+
+
+אנו עשויים לעדכן מדיניות פרטיות זו מעת לעת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום.
+
+
+
+## 8. יצירת קשר
+
+
+לשאלות או בקשות בנוגע למדיניות פרטיות זו, ניתן לפנות אלינו:
+
+
+- חברה: Zaply
+
+- אימייל: [business_email]
+
+- טלפון: [business_phone]
+
+- כתובת: [business_address]
+
+
+
+רשם מאגרי המידע: לתלונות ניתן לפנות לרשם מאגרי המידע במשרד המשפטים
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automação inteligente de mensagens para escalar seu negócio com velocidade e precisão.
+
+
+
+
+
+
+#### Links Rápidos
+
+
+- Features
+
+- About
+
+- Stats
+
+- How It Works
+
+- Testimonials
+
+- FAQ
+
+
+
+
+
+
+
+#### Contato
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Horário de Funcionamento
+
+
+- Seg–Sex 09:00–18:00
+
+- Sáb 09:00–13:00
+
+- Dom Fechado
+
+
+
+
+
+
+
+#### Siga-nos
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 Zaply. Todos os direitos reservados.
+
+
+
+
+Política de Privacidade
+|
+Termos e Condições
+|
+Acessibilidade
+
+Generated by Zappy
+
+---
+
+## Accessibility Statement
+
+URL: https://zaply-c8e7c989.zappy5.app/accessibility
+Description: Our accessibility statement - our commitment to digital accessibility
+
+Accessibility Statement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Funcionalidades
+- Sobre
+- Estatísticas
+- Como Funciona
+- Depoimentos
+- FAQ
+- Contato
+
+
+
+Contato
+
+
+
+
+
+
+
+
+# הצהרת נגישות
+
+
+
+עדכון אחרון:  2.7.2026
+
+
+
+Zaply מחויבת להנגיש את השירותים לכלל הציבור. אנו פועלים ליישם את הנחיות התקן הישראלי (ת"י 5568) המבוסס על הנחיות WCAG 2.1 ברמת AA.
+
+
+רמת נגישות: AA (תקן ישראלי ת"י 5568)
+
+
+
+## 1. מדיניות הנגישות
+
+
+אנו מאמינים בשוויון זכויות ובזכותו של כל אדם לקבל מידע ושירותים בצורה עצמאית ושוויונית. אתר זה תוכנן ונבנה תוך מתן דגש מיוחד על נגישות לאנשים עם מוגבלויות.
+
+
+## 2. הסדרי הנגישות באתר
+
+
+- תמיכה בניווט באמצעות מקלדת
+
+- תמיכה בקוראי מסך
+
+- ניגודיות צבעים מתאימה
+
+- גדלי פונט גמישים וניתנים להגדלה
+
+- תיאורי תמונות (Alt text) מפורטים
+
+- כותרות מובנות היררכית
+
+- קישורים תיאוריים וברורים
+
+- תמיכה בזום עד 200% ללא אובדן תוכן
+
+
+
+
+
+### תאימות לתקן WCAG 2.1
+
+
+האתר תואם לרמת AA של תקן WCAG 2.1, הכולל:
+
+
+- נתפס (Perceivable): המידע מוצג בדרכים שמשתמשים יכולים לתפוס
+
+- פעיל (Operable): רכיבי הממשק ניתנים להפעלה
+
+- מובן (Understandable): המידע וממשק המשתמש מובנים
+
+- חזק (Robust): התוכן יכול להיות מפוענח על ידי מגוון טכנולוגיות
+
+
+
+
+
+## 3. טכנולוגיות מסייעות נתמכות
+
+
+- NVDA (Windows)
+
+- JAWS (Windows)
+
+- VoiceOver (Mac/iOS)
+
+- TalkBack (Android)
+
+- Dragon NaturallySpeaking
+
+- Switch navigation
+
+
+
+
+## 4. בדיקות נגישות
+
+
+האתר נבדק באמצעות:
+
+
+- כלים אוטומטיים לבדיקת נגישות
+
+- בדיקות ידניות עם קוראי מסך
+
+- ניווט באמצעות מקלדת בלבד
+
+- בדיקת ניגודיות צבעים
+
+- בדיקה עם משתמשים עם מוגבלויות
+
+
+
+
+## 5. שיפורים מתמשכים
+
+
+אנו עובדים באופן מתמשך לשיפור נגישות האתר ומעדכנים אותו בהתאם להתפתחויות טכנולוגיות ולמשוב מהמשתמשים.
+
+
+
+## 6. יצירת קשר ומשוב
+
+
+אם נתקלתם בבעיית נגישות באתר או זקוקים לסיוע, אנא פנו אלינו:
+
+
+- חברה: Zaply
+
+- אימייל: [business_email]
+
+- טלפון: [business_phone]
+
+
+
+זמני מענה: נענה לפניות בנושא נגישות תוך 3 ימי עסקים ונפעל לפתרון תוך 10 ימי עסקים.
+
+
+תלונות: ניתן להגיש תלונה למשרד המשפטים - הנציבות לשוויון זכויות לאנשים עם מוגבלות
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automação inteligente de mensagens para escalar seu negócio com velocidade e precisão.
+
+
+
+
+
+
+#### Links Rápidos
+
+
+- Features
+
+- About
+
+- Stats
+
+- How It Works
+
+- Testimonials
+
+- FAQ
+
+
+
+
+
+
+
+#### Contato
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Horário de Funcionamento
+
+
+- Seg–Sex 09:00–18:00
+
+- Sáb 09:00–13:00
+
+- Dom Fechado
+
+
+
+
+
+
+
+#### Siga-nos
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 Zaply. Todos os direitos reservados.
+
+
+
+
+Política de Privacidade
+|
+Termos e Condições
+|
+Acessibilidade
+
+Generated by Zappy
+
+---
+
+## Terms & Conditions
+
+URL: https://zaply-c8e7c989.zappy5.app/terms
+Description: Terms of service - user rights and obligations
+
+Terms & Conditions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Funcionalidades
+- Sobre
+- Estatísticas
+- Como Funciona
+- Depoimentos
+- FAQ
+- Contato
+
+
+
+Contato
+
+
+
+
+
+
+
+
+# תנאי שימוש
+
+
+
+עדכון אחרון:  2.7.2026
+
+
+
+השימוש באתר זה מהווה הסכמה לתנאי השימוש המפורטים להלן. אנא קראו בעיון לפני השימוש.
+
+
+
+## 1. הגדרות
+
+
+- "החברה" - Zaply
+
+- "המשתמש" - כל מי שגולש או משתמש באתר
+
+- "השירותים" - SaaS / Messaging Automation הניתנים דרך האתר
+
+
+
+
+## 2. תיאור השירותים
+
+
+Zaply מספקת SaaS / Messaging Automation דרך האתר. השירותים כפופים לתנאים המפורטים במסמך זה ועשויים להשתנות מעת לעת.
+
+
+## 3. תנאי השימוש
+
+
+השימוש באתר מותנה בעמידה בתנאים הבאים:
+
+
+- השימוש באתר למטרות חוקיות בלבד
+
+- אי-הפרעה לפעילות האתר או משתמשים אחרים
+
+- אי-העלאת תוכן פוגעני, לא חוקי או מזיק
+
+- כיבוד זכויות יוצרים וקניין רוחני
+
+- אי-ביצוע פעולות שעלולות לפגוע באבטחת האתר
+
+
+
+
+## 4. חובות המשתמש
+
+
+- מתן מידע נכון ומדויק בעת הרשמה או הזמנה
+
+- שמירה על סודיות פרטי הגישה לחשבון
+
+- הודעה מיידית על כל שימוש לא מורשה בחשבון
+
+- עדכון מידע אישי במידת הצורך
+
+
+
+
+## 5. מדיניות תשלומים והחזרים
+
+
+במידה והשירותים כוללים תשלום:
+
+
+- התשלומים מבוצעים דרך מערכות בטוחות ומוצפנות
+
+- המחירים כוללים מע"ם כנדרש בחוק
+
+- זכות ביטול עסקה תעמוד בהתאם לחוק הגנת הצרכן
+
+- החזרים יבוצעו תוך 14 ימי עסקים מאישור הביטול
+
+
+
+
+## 6. הגבלת אחריות
+
+
+השירותים ניתנים "כפי שהם" ללא אחריות מכל סוג. החברה לא תהיה אחראית לנזקים עקיפים, תוצאתיים או מיוחדים הנובעים משימוש באתר, למעט במקרים בהם החוק קובע אחרת.
+
+
+## 7. זכויות יוצרים וקניין רוחני
+
+
+כל התכנים באתר, כולל טקסטים, תמונות, עיצוב וקוד, מוגנים בזכויות יוצרים השייכות לZaply. אסור לשכפל, להפיץ או לעשות שימוש מסחרי בתכנים ללא אישור בכתב.
+
+
+## 8. פרטיות
+
+
+איסוף ושימוש במידע אישי כפופים למדיניות הפרטיות שלנו. השימוש באתר מהווה הסכמה למדיניות הפרטיות כפי שמפורט בנפרד.
+
+
+## 9. שינוי תנאי השימוש
+
+
+החברה רשאית לשנות תנאי שימוש אלה בכל עת. שינויים מהותיים יפורסמו באתר עם הודעה מוקדמת של 30 יום. המשך השימוש לאחר השינוי מהווה הסכמה לתנאים החדשים.
+
+
+## 10. סיום השירות
+
+
+החברה רשאית להפסיק או להגביל את השירות בכל עת, לרבות במקרה של הפרת תנאי השימוש. במקרה של סיום השירות, יישמרו הוראות הסעיפים הרלוונטיים.
+
+
+## 11. דין חל ויישוב סכסוכים
+
+
+תנאי שימוש אלה כפופים לחוקי מדינת ישראל. כל סכסוך יידון בבתי המשפט המוסמכים בישראל, תוך מתן עדיפות לבוררות או גישור במידת האפשר.
+
+
+## 12. הוראות כלליות
+
+
+- אם חלק מהתנאים יוכרז כבלתי תקף, יישארו שאר התנאים בתוקף
+
+- אי-אכיפה של זכות לא תחשב כוויתור עליה
+
+- תנאי השימוש מהווים את מלוא ההסכם בין הצדדים
+
+
+
+
+
+## 13. פרטי יצירת קשר
+
+
+לשאלות או הבהרות בנוגע לתנאי השימוש:
+
+
+- חברה: Zaply
+
+- אימייל: [business_email]
+
+- טלפון: [business_phone]
+
+- כתובת: [business_address]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Automação inteligente de mensagens para escalar seu negócio com velocidade e precisão.
+
+
+
+
+
+
+#### Links Rápidos
+
+
+- Features
+
+- About
+
+- Stats
+
+- How It Works
+
+- Testimonials
+
+- FAQ
+
+
+
+
+
+
+
+#### Contato
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Horário de Funcionamento
+
+
+- Seg–Sex 09:00–18:00
+
+- Sáb 09:00–13:00
+
+- Dom Fechado
+
+
+
+
+
+
+
+#### Siga-nos
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 Zaply. Todos os direitos reservados.
+
+
+
+
+Política de Privacidade
+|
+Termos e Condições
+|
+Acessibilidade
+
+Generated by Zappy
+
+---
+
+## Obrigado pelo Contato - Zaply
+
+URL: https://zaply-c8e7c989.zappy5.app/thank-you
+Description: Obrigado por entrar em contato com a Zaply. Recebemos sua mensagem sobre nosso serviço de envio de mensagens em massa e retornaremos em breve.
+
+Obrigado pelo Contato - Zaply
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Funcionalidades
+- Sobre
+- Estatísticas
+- Como Funciona
+- Depoimentos
+- FAQ
+- Contato
+
+
+
+Contato
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Obrigado!
+
+
+Sua mensagem foi recebida com sucesso.
+
+
+
+Seu número de protocolo
+
+
+---
+
+
+
+
+Nossa equipe já recebeu sua solicitação. Seja para dúvidas sobre nosso serviço de envio de mensagens em massa ou nosso planejador de horários de cursos, entraremos em contato o mais breve possível com todas as informações necessárias.
+
+
+Voltar ao Início
+Falar Conosco Novamente
+
+
+
+
+
+
+
+
+
+
+
+
+Automação inteligente de mensagens para escalar seu negócio com velocidade e precisão.
+
+
+
+
+
+
+#### Links Rápidos
+
+
+- Features
+
+- About
+
+- Stats
+
+- How It Works
+
+- Testimonials
+
+- FAQ
+
+
+
+
+
+
+
+#### Contato
+
+
+- [business_email]
+
+- [business_phone]
+
+- [business_address]
+
+
+
+
+
+
+
+#### Horário de Funcionamento
+
+
+- Seg–Sex 09:00–18:00
+
+- Sáb 09:00–13:00
+
+- Dom Fechado
+
+
+
+
+
+
+
+#### Siga-nos
+
+
+
+
+
+
+
+
+
+
+
+
+
+© 2026 Zaply. Todos os direitos reservados.
+
+
+
+
+Política de Privacidade
+|
+Termos e Condições
+|
+Acessibilidade
+
+Generated by Zappy
+
+---
+
